@@ -11,7 +11,5 @@
 Спасибо!  
 Всего наилучшего!
 
-[link][1]
-
-
-[1]: /img/foto1.jpg  
+![myphoto](img/foto1.jpg)
+ 
